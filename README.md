@@ -1,5 +1,5 @@
 # Kaleidoscope
-P R O J E C T    S T A T E M E N T
+P R O J E C T _ S T A T E M E N T
 
 In public school systems, student and teacher data determines everything from student matriculation to teacher retention to school funding. Teachers are largely excluded from the meaning-making process of their students' and their own data, and the powerful pedagogical tool of self-evaluation is left completely out of the equation. As quantification of data has become increasingly valued as an "objective" assessment of teachers, there has been little room made for valuing the qualitative spaces of teacher-as-reflective-practitioner. There is a need for teachers to be empowered to generate and interrogate their own data in order for such information to be meaningful, contributing towards teachers' professional growth and an increased understanding of the system that they operate within. By creating a self-evaluation app for teachers, our project will ask how social scientific data can be entered with humanist priorities, and how these humanist interventions can contribute towards improving educational evaluation systems. We are interested in diving into data "like a pool" and recalibrating qualitative and quantitative value in order to critically and creatively reconsider what educational data might look like. 
 
